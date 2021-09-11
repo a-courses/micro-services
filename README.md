@@ -14,3 +14,4 @@ micro services course content practices
 5. How to create query method. explain with examples.
 6. @Controller vs @RestController?
 7. What are the Spring Data Modules. examples
+8. What is namedQuery and Types?
