@@ -41,5 +41,4 @@ micro services course content practices
 ![image](https://user-images.githubusercontent.com/9821180/133088520-c28403dc-9880-4186-89e2-d31a45f43c0b.png)
 
 # 12 factors
-![image](https://user-images.githubusercontent.com/9821180/133089108-8e5e7c1b-7a8f-4d29-ade1-c0d634e96b12.png =100x)
-
+![12 factor image](https://user-images.githubusercontent.com/9821180/133089108-8e5e7c1b-7a8f-4d29-ade1-c0d634e96b12.png)
