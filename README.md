@@ -16,3 +16,9 @@ micro services course content practices
 6. @Controller vs @RestController?
 7. What are the Spring Data Modules. examples
 8. What is namedQuery and Types?
+
+---
+Spring MongoDB Summary
+
+![image](https://user-images.githubusercontent.com/9821180/133039113-7c9009e3-16cf-4560-8e05-5203c49c8e2b.png)
+
