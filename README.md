@@ -37,4 +37,7 @@ micro services course content practices
 ![image](https://user-images.githubusercontent.com/9821180/133069909-160ec073-d87e-4934-8ce9-6995d3ebd08b.png)
 ![image](https://user-images.githubusercontent.com/9821180/133071728-60895121-3328-4ca5-ae7d-aae1af62eba8.png)
 
+# cloud native app vs traditional app model
+![image](https://user-images.githubusercontent.com/9821180/133088520-c28403dc-9880-4186-89e2-d31a45f43c0b.png)
+
 
