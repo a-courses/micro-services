@@ -18,7 +18,7 @@ micro services course content practices
 8. What is namedQuery and Types?
 
 ---
-Spring MongoDB Summary
+# Spring MongoDB Summary in short
 
 ![image](https://user-images.githubusercontent.com/9821180/133039113-7c9009e3-16cf-4560-8e05-5203c49c8e2b.png)
 
@@ -31,5 +31,8 @@ Spring MongoDB Summary
 ---
 ![image](https://user-images.githubusercontent.com/9821180/133056602-1a9f0d0f-6524-4030-98ca-62ebffcdffb0.png)
 
+---
+# VM vs Container
+![image](https://user-images.githubusercontent.com/9821180/133069909-160ec073-d87e-4934-8ce9-6995d3ebd08b.png)
 
 
