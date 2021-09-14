@@ -11,6 +11,7 @@ micro services course content practices
 5. https://12factor.net/ - VERY IMP FOR MICROSERVICE DEV
 6. https://cloud.spring.io/spring-cloud-netflix/reference/html/
 7. https://jsonplaceholder.typicode.com/
+8. https://www.consul.io/
 
 # Question
 1. Difference between SessionFactory, Entitymanager and TransactionManager
