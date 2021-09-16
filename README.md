@@ -47,3 +47,7 @@ micro services course content practices
 
 # 12 factors
 ![12 factor image](https://user-images.githubusercontent.com/9821180/133089108-8e5e7c1b-7a8f-4d29-ade1-c0d634e96b12.png)
+
+# reading config from GIT
+![image](https://user-images.githubusercontent.com/9821180/133578591-d6224f3a-5f61-4972-bec7-c4441d8cd1d1.png)
+
